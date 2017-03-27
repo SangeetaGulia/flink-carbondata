@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Mar 27 18:15:19 IST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-015b-0fcc-9a96-00000d4793f8 
+on database directory /home/sangeeta/projects/target/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@6f76c2cc 
+Loaded from file:/home/sangeeta/.m2/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_111-b14
+user.dir=/home/sangeeta/projects/contribute/flink-carbondata
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-66-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
